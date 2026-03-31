@@ -88,6 +88,6 @@ jupyter notebook churn_analysis.ipynb
 
 ## About me
 
-I'm a data scientist finishing my Master's in Data Science at University at Buffalo (graduating Feb 2026), actively looking for data scientist, product data scientist, and data analyst roles.
+I'm a data scientist with a Master of Professional Studies (MPS) in Data Science from the University at Buffalo (graduated Feb 2026), actively looking for Data Scientist, Product Data Scientist, and Data Analyst roles.
 
 [LinkedIn](https://linkedin.com/in/deeptidhanpal) · [GitHub](https://github.com/Deepti-Dhanapala)
