@@ -82,3 +82,8 @@ Desktop.ini
 # Ignore virtual environments
 venv/
 ENV/
+
+.env
+*.env
+__pycache__/
+.streamlit/
