@@ -86,6 +86,32 @@ jupyter notebook churn_analysis.ipynb
 
 ---
 
+## 🤖 AI-Powered Churn Assistant
+
+Built an interactive AI assistant on top of this analysis using the Claude API and Streamlit.
+
+### What it does
+- Loads and analyzes the churn dataset automatically
+- Calculates key business metrics (churn rate, contract breakdown, payment method analysis)
+- Allows users to ask any business question in plain English
+- Claude answers with specific data-backed insights and recommendations
+
+### Tech Stack
+- Python, Pandas — data processing
+- Anthropic Claude API — AI-powered analysis
+- Streamlit — interactive web dashboard
+
+### Files
+- `churn_assistant.py` — terminal-based Q&A assistant
+- `app.py` — Streamlit web dashboard
+
+### How to Run
+```bash
+pip install anthropic pandas streamlit python-dotenv
+# Add your Anthropic API key to .env file
+streamlit run app.py
+```
+
 ## About me
 
 I'm a data scientist with a Master of Professional Studies (MPS) in Data Science from the University at Buffalo (graduated Feb 2026), actively looking for Data Scientist, Product Data Scientist, and Data Analyst roles.
