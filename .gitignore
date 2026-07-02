@@ -1,0 +1,5 @@
+.env
+*.env
+telco_churn.csv
+__pycache__/
+.streamlit/
